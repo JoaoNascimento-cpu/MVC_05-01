@@ -15,6 +15,21 @@ namespace trabalho1.Views
                 Console.WriteLine($"Preço = R$: {item.Preco}");
                 
             }
+
         }
+            public Produto CadastrarProduto()
+            {
+                Produto produto = new Produto();
+                Console.WriteLine($"Digite um código:");
+                produto.Codigo = int.Parse(Console.ReadLine());
+                
+                Console.WriteLine($"Digite o Nome do produto:");
+                produto.Nome = Console.ReadLine();
+                
+                Console.WriteLine($"Digite o PReço do produto:");
+                produto.Preco = float.Parse(Console.ReadLine());
+
+                return produto;
+            }
     }
 }
