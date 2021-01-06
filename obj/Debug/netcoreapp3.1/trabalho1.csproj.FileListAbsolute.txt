@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\bin\Debug\netcoreapp3.1\trabalho1.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHOS\MVC\trabalho1\obj\Debug\netcoreapp3.1\trabalho1.genruntimeconfig.cache
